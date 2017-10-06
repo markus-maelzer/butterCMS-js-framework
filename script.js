@@ -1,4 +1,4 @@
-var butter = Butter('7224488e24c2f449ccdc3402aa8000f9da281aee');
+
 var selectButterClass = document.getElementsByClassName('butter');
 
 (function init() {
