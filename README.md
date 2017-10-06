@@ -17,6 +17,7 @@ to display it. You can Focus on Styling and your other js functions instead.
 
 # **Setup**
 
-Get butterCMS as CDN into your projects head. You can copy the code below.
+Find Setup here --> [butterCms](https://buttercms.com/docs/api-client/javascript)
 
+Get butterCMS as CDN into your projects head. You can copy the code below.
 <script src="https://cdnjs.buttercms.com/buttercms-1.0.17.min.js"></script>
