@@ -3,9 +3,9 @@
 1. Introduction
 2. Setup
 3. Usage
-  - single Object
-  - collage
-  - post (not aviable yet)
+    - single Object
+    - collage
+    - post (not aviable yet)
 
 **Introduction**
 
